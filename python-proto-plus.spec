@@ -6,8 +6,8 @@ Summary:	Beautiful, Pythonic protocol buffers
 URL:		https://pypi.org/project/proto-plus/
 License:	Apache 2.0
 Group:		Development/Python
-BuildRequires:	python
 BuildSystem:	python
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildArch:	noarch
 
 %description
