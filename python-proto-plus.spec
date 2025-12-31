@@ -1,6 +1,6 @@
 Name:		python-proto-plus
-Version:	1.26.1
-Release:	3
+Version:	1.27.0
+Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/p/proto-plus/proto_plus-%{version}.tar.gz
 Summary:	Beautiful, Pythonic protocol buffers
 URL:		https://pypi.org/project/proto-plus/
